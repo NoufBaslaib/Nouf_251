@@ -1,0 +1,57 @@
+Section sec107, courseCode= G500, gender=F, courseHours=
+instructor:Instructor uniqueID: t010, name: Saad ali position: Doctor Department Computer DPT. Salary: 3000.0
+students=
+Student uniqueID: s010, name: Reem GPA: 3.6, supervisor: Omar, Specialization: Computer, grant=yes
+Student uniqueID: s050, name: Khadeja GPA: 3.9, supervisor: Khalid, Specialization: Engineer, grant=yes
+Student uniqueID: s030, name: Raghad GPA: 1.0, supervisor: Saleh, Specialization: Pediatrics, grant=yes
+
+Section sec102, courseCode= NU400, gender=F, courseHours=
+instructor:Instructor uniqueID: t020, name: Ameerah Adel position: Teacher Department Computer DPT. Salary: 3000.0
+students=
+Student uniqueID: s060, name: Areej GPA: 2.8, supervisor: Sultan, Specialization: Dermatilogy, grant=yes
+Student uniqueID: s020, name: Shatha GPA: 2.1, supervisor: Salem, Specialization: Markting, grant=yes
+Student uniqueID: s010, name: Reem GPA: 3.6, supervisor: Omar, Specialization: Computer, grant=yes
+
+Section sec101, courseCode= M251, gender=F, courseHours=
+instructor:Instructor uniqueID: t010, name: Saad ali position: Doctor Department Computer DPT. Salary: 3000.0
+students=
+Student uniqueID: s010, name: Reem GPA: 3.6, supervisor: Omar, Specialization: Computer, grant=yes
+Student uniqueID: s020, name: Shatha GPA: 2.1, supervisor: Salem, Specialization: Markting, grant=yes
+
+Section sec103, courseCode= G500, gender=F, courseHours=
+instructor:Instructor uniqueID: t030, name: Salman Sadeq position: Teacher assistant Department Computer DPT. Salary: 3000.0
+students=
+Student uniqueID: s040, name: Sara GPA: 2.2, supervisor: Abdullah, Specialization: Neurology, grant=yes
+Student uniqueID: s010, name: Reem GPA: 3.6, supervisor: Omar, Specialization: Computer, grant=yes
+Student uniqueID: s060, name: Areej GPA: 2.8, supervisor: Sultan, Specialization: Dermatilogy, grant=yes
+
+Section sec104, courseCode= B704, gender=F, courseHours=
+instructor:Instructor uniqueID: t010, name: Saad ali position: Doctor Department Computer DPT. Salary: 3000.0
+students=
+Student uniqueID: s040, name: Sara GPA: 2.2, supervisor: Abdullah, Specialization: Neurology, grant=yes
+Student uniqueID: s020, name: Shatha GPA: 2.1, supervisor: Salem, Specialization: Markting, grant=yes
+Student uniqueID: s030, name: Raghad GPA: 1.0, supervisor: Saleh, Specialization: Pediatrics, grant=yes
+
+Section sec105, courseCode= M251, gender=F, courseHours=
+instructor:Instructor uniqueID: t010, name: Saad ali position: Doctor Department Computer DPT. Salary: 3000.0
+students=
+Student uniqueID: s010, name: Reem GPA: 3.6, supervisor: Omar, Specialization: Computer, grant=yes
+Student uniqueID: s020, name: Shatha GPA: 2.1, supervisor: Salem, Specialization: Markting, grant=yes
+Student uniqueID: s050, name: Khadeja GPA: 3.9, supervisor: Khalid, Specialization: Engineer, grant=yes
+
+Section sec106, courseCode= S890, gender=F, courseHours=
+instructor:Instructor uniqueID: t010, name: Saad ali position: Doctor Department Computer DPT. Salary: 3000.0
+students=
+Student uniqueID: s060, name: Areej GPA: 2.8, supervisor: Sultan, Specialization: Dermatilogy, grant=yes
+Student uniqueID: s020, name: Shatha GPA: 2.1, supervisor: Salem, Specialization: Markting, grant=yes
+Student uniqueID: s030, name: Raghad GPA: 1.0, supervisor: Saleh, Specialization: Pediatrics, grant=yes
+
+Section sec108, courseCode= B704, gender=F, courseHours=
+instructor:Instructor uniqueID: t010, name: Saad ali position: Doctor Department Computer DPT. Salary: 3000.0
+students=
+Student uniqueID: s010, name: Reem GPA: 3.6, supervisor: Omar, Specialization: Computer, grant=yes
+Student uniqueID: s050, name: Khadeja GPA: 3.9, supervisor: Khalid, Specialization: Engineer, grant=yes
+Student uniqueID: s030, name: Raghad GPA: 1.0, supervisor: Saleh, Specialization: Pediatrics, grant=yes
+Student uniqueID: s040, name: Sara GPA: 2.2, supervisor: Abdullah, Specialization: Neurology, grant=yes
+
+
